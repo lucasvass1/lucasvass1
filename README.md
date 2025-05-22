@@ -1,14 +1,16 @@
-## 👋🏻 Olá, eu sou o Lucas Vasconcelos
+# 👋🏻 Olá, eu sou o Lucas Vasconcelos
 🎓 Estudante de Engenharia de Software <br>
 💻 Desenvolvedor Full Stack 
 ## 🚀 Sobre mim
 Sou apaixonado por tecnologia e por criar soluções funcionais e bem estruturadas. Atualmente, me dedico ao desenvolvimento Full Stack, com experiência prática em projetos reais. Estou em constante evolução, sempre buscando aprender mais, aprimorar minhas habilidades e entregar resultados com qualidade.
+### 📊 Estatísticas
 <div
   <a href="https://github.com/lucasvass1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasvass1&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvass1&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasvass1&show_icons=true&theme=dark&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvass1&layout=compact&theme=dark&custom_title=Tecnologias&langs_count=9"/>
   </div>
-
+  
+### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-ts-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
