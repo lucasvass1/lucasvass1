@@ -1,4 +1,5 @@
 # 👋🏻 Olá, eu sou o Lucas!
+📍João pessoa,PB
 🎓 Estudante de Engenharia de Software <br>
 💻 Desenvolvedor Full Stack 
 ## 🚀 Sobre mim
