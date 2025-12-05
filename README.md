@@ -17,7 +17,7 @@ Valorizo código limpo, organização e aprendizado constante — busco aprimora
 ## 📊 Estatísticas GitHub
 
 <div>
-  <a href="https://github.com/lucasvass1">
+  <a href="https://github.com/lucasvass1" target="_blank" rel="noopener noreferrer">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasvass1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvass1&layout=compact&theme=dark&custom_title=Linguagens&langs_count=9"/>
   </a>
@@ -41,16 +41,19 @@ Valorizo código limpo, organização e aprendizado constante — busco aprimora
 ## 📬 Como me encontrar
 
 <div> 
-  <a href="https://discord.com/users/_lucasvass" target="_blank">
+  <a href="https://discord.com/users/_lucasvass" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="mailto:lucasvasconcelos1202@gmail.com" target="_blank">
+
+  <a href="mailto:lucasvasconcelos1202@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/lucasvasconcelos1202/" target="_blank">
+
+  <a href="https://www.linkedin.com/in/lucasvasconcelos1202/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://lucasvass1.github.io/Lucas-vasconcelos/" target="_blank">
+
+  <a href="https://lucasvass1.github.io/Lucas-vasconcelos/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </div>
