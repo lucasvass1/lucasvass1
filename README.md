@@ -4,7 +4,7 @@
 🎓 Estudante de Engenharia de Software  
 💻 Desenvolvedor Full Stack  
 
----
+
 
 ## 🚀 Sobre mim
 
@@ -12,7 +12,7 @@ Sou um desenvolvedor apaixonado por tecnologia e pela criação de soluções ef
 
 Valorizo código limpo, organização e aprendizado constante — busco aprimorar minhas habilidades diariamente e contribuir para projetos que façam a diferença.
 
----
+
 
 ## 📊 Estatísticas GitHub
 
@@ -23,7 +23,7 @@ Valorizo código limpo, organização e aprendizado constante — busco aprimora
   </a>
 </div>
 
----
+
 
 ## 🤖 Tecnologias que utilizo
 
@@ -36,7 +36,7 @@ Valorizo código limpo, organização e aprendizado constante — busco aprimora
   <img align="center" alt="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
----
+
 
 ## 📬 Como me encontrar
 
