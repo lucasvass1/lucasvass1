@@ -1,7 +1,3 @@
-# 👋🏻 Olá! Eu sou o Lucas Vasconcelos
-
-📍 João Pessoa – PB  
-🎓 Estudante de Engenharia de Software  
 💻 Desenvolvedor Full Stack  
 
 ---
@@ -26,12 +22,35 @@ Valorizo código limpo, organização e aprendizado constante — busco aprimora
 
 ---
 
-## 🛠️ Tecnologias
+## 🤖 Tecnologias que utilizo
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
+
+---
+
+## 📬 Como me encontrar
+
+<div>
+  <a href="https://discord.com/users/_lucasvass" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+
+  <a href="mailto:lucasvasconcelos1202@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/lucasvasconcelos1202/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://lucasvass1.github.io/Lucas-vasconcelos/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
 </div>
