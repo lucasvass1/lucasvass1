@@ -1,5 +1,7 @@
 💻 Desenvolvedor Full Stack  
 
+---
+
 ## 🚀 Sobre mim
 
 Sou um desenvolvedor apaixonado por tecnologia e pela criação de soluções eficientes, escaláveis e bem estruturadas. Tenho experiência prática em projetos Full Stack utilizando **JavaScript, TypeScript, React e Node.js**, sempre focado em qualidade, boas práticas e evolução contínua.
