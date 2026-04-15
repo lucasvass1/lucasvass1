@@ -27,7 +27,7 @@ Valorizo código limpo, organização e aprendizado constante — busco aprimora
 
 ## 🤖 Tecnologias que utilizo
 
-<div style="display: inline_block"><br>
+<div style="display:flex inline_block"><br>
   <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
