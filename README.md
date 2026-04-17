@@ -1,16 +1,48 @@
-💻 Desenvolvedor Full Stack  
+# 👋 Olá, eu sou o Lucas Vasconcelos!
+
+> Transformando ideias em aplicações reais, com código limpo e bem pensado.
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia e pela criação de soluções eficientes, escaláveis e bem estruturadas. Tenho experiência prática em projetos Full Stack utilizando **JavaScript, TypeScript, React e Node.js**, sempre focado em qualidade, boas práticas e evolução contínua.
+Sou um **Desenvolvedor Full Stack** que gosta de construir aplicações completas — do frontend ao backend — com foco em **clareza, performance e escalabilidade**.
 
-Valorizo código limpo, organização e aprendizado constante — busco aprimorar minhas habilidades diariamente e contribuir para projetos que façam a diferença.
+Trabalho principalmente com **JavaScript, TypeScript, React e Node.js**, criando desde interfaces modernas até APIs bem estruturadas.
+
+Curto resolver problemas de verdade, não só “fazer funcionar”. Pra mim, código bom é aquele que outro dev entende sem sofrimento.
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🧠 Como eu penso como dev
+
+- Código limpo não é luxo — é obrigação  
+- Simplicidade > complexidade desnecessária  
+- Performance e experiência do usuário andam juntas  
+- Sempre dá pra melhorar (inclusive o que já tá funcionando)
+
+---
+
+## 💻 Stack principal
+
+**Frontend**  
+HTML • CSS • JavaScript • TypeScript • React  
+
+**Backend**  
+Node.js  
+
+---
+
+## ⚙️ O que eu faço na prática
+
+- Construo **interfaces responsivas e funcionais**
+- Desenvolvo **APIs organizadas e escaláveis**
+- Faço integração entre frontend e backend sem gambiarra
+- Me preocupo com **estrutura de projeto e manutenção futura**
+
+---
+
+## 📊 GitHub Stats
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/lucasvass1" target="_blank">
@@ -22,35 +54,23 @@ Valorizo código limpo, organização e aprendizado constante — busco aprimora
 
 ---
 
-## 🤖 Tecnologias que utilizo
+## 📬 Contato
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
+Se quiser trocar ideia, colaborar ou falar de oportunidades:
+
+- 💼 LinkedIn: https://www.linkedin.com/in/lucasvasconcelos1202/
+- 🌐 Portfólio: https://lucasvass1.github.io/Lucas-vasconcelos/
+- 📧 Email: lucasvasconcelos1202@gmail.com
+- 🎮 Discord: _lucasvass
 
 ---
 
-## 📬 Como me encontrar
+## 💡 Um pouco mais sobre mim
 
-<div>
-  <a href="https://discord.com/users/_lucasvass" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
+Estou sempre buscando evoluir como desenvolvedor — aprendendo, testando e melhorando minhas soluções.
 
-  <a href="mailto:lucasvasconcelos1202@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+Não curto código bagunçado nem soluções improvisadas quando dá pra fazer direito.
 
-  <a href="https://www.linkedin.com/in/lucasvasconcelos1202/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+---
 
-  <a href="https://lucasvass1.github.io/Lucas-vasconcelos/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-</div>
+⭐ Se algum projeto te chamou atenção, fica à vontade pra dar uma estrela.
